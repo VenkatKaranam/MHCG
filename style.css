@@ -9,6 +9,10 @@
 
 .block{
     margin:150px 0px;
+    align-items: center;
+}
+.innerblock{
+    padding-top: 30px;
 }
 
 .btn{
